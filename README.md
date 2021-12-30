@@ -5,6 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
+
 - 👨‍🎓 Within a year I will graduate as a Systems Engineer at **[UDI](https://web.udi.edu.co/)**
 - 💚 I am a **[Platzinauta](https://platzi.com/home)**. **Never stop learning!**
 - 🌱 I’m currently learning **Data mining and IT security.**
@@ -12,7 +13,9 @@
 - 🕹️ I like to play video games, especially shooters.
 - 📫 You can mail me at **camilovalncias@gmail.com**
 
+
 ## 🚀 Languages and Tools:
+
 <br/>
 <p align="center"> 
     </a>
@@ -27,23 +30,9 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <h3 class="toolsh3" align="center">I want to learn many more things.</h3>
+    <h3 class="toolsh3" align="center">I want to learn many other things.</h3>
     </p>
 
-
-
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-
-## 🤔 My Github Performance
-<br/>
-<p align="center">
-    <a href="#">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Camilo Valencia's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ValenciaJCamilo&theme=dark&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 ## 📊 My Github Stats
 
@@ -57,26 +46,10 @@
   </p>
 
 
-
-<a href="#"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ValenciaJCamilo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-
 ## 🤘Learn more about me here:
-
 
 <a href = "https://www.linkedin.com/in/camilo-valencia-51b719226/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Ragnarbalt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/valenciajcamilo/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/JCamiloValncia/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
-
-## ❤ Views and Followers
-<a href="#">
-    <img src="https://komarev.com/ghpvc/?username=ValenciaJCamilo">
-</a>
-<a href="#"><img src="https://img.shields.io/github/followers/ValenciaJCamilo?label=Followers&style=social" alt="Viewers/Followers"></a>
-<hr>
-<p class="end">
-Made with love 🧙‍♂️
-</p>
-<hr>
