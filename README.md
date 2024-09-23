@@ -1,15 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" height="175px"/></a>
 
-<h1 align="center">Hey , I'm Camilo 👋🏻</h1>
-<h3 align="center">I am a Colombian Systems Engineering student and I like and perform in Frontend development.</h3>
+<h1 align="center">Hey , I'm Camilo Valencia👋🏻</h1>
+<h3 align="center">I am a professional in Systems Engineering with emphasis in the field of Data Engineering. My experience is focused on the creation and efficient management of solutions for data processing, storage and analysis, with technologies such as Python, Power BI, SQL. With solid skills in Web Development (HTML, CSS, JavaScript), I have been able to collaborate with the design and implementation of web applications from the Frontend side. My approach is based on applying software engineering best practices and constantly updating knowledge to address emerging technology challenges. Always looking to collaborate in areas where I can continue to grow and contribute my experience to the innovative development of projects in the field of Data Engineering and Web Development.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 Within a year I will graduate as a Systems Engineer at **[UDI](https://web.udi.edu.co/)**
-- 💚 I am a **[Platzinauta](https://platzi.com/home)**. **Never stop learning!**
-- 🌱 I’m currently learning **Data mining and IT security.**
-- 👨‍💻 I am in the process of creating my **portfolio**  
+- 💼 I am currently working as an engineer and data analyst in a medical center. **
+- 👨‍💻 I am currently taking a professional data science course by IBM.**
 - 🕹️ I like to play video games, especially shooters.
 - 📫 You can mail me at **camilovalncias@gmail.com**
 
